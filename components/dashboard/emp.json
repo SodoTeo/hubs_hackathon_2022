@@ -1,0 +1,13 @@
+{
+    "employees":[
+      {"Name":"Bright Spark", "image":"https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Bailey?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Glittering Gems", "image":"https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Muffin?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Green Garden", "image": "https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Dusty?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Blue Ocean", "image": "https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Angel?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Velvet Touch", "image": "https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Missy?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Golden Sunrise", "image": "https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Max?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Silver Storm", "image": "https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Miss%20kitty?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Purple Rain", "image": "api.dicebear.com/5.x/bottts-neutral/svg?seed=Sadie?w=140&h=140&fit=fill&r=max&q=100"},
+      {"Name":"Green Rain", "image":"https://api.dicebear.com/5.x/bottts-neutral/svg?seed=Bubba?w=140&h=140&fit=fill&r=max&q=100"}
+    ]
+}
